@@ -1,1 +1,3 @@
 # CodeClause_TodoList
+
+The Todo List project is a dynamic web application developed using HTML, CSS, JavaScript, and PHP. It offers users a user-friendly interface to create, update, and track tasks efficiently. The application allows task prioritization, due dates, and categorization. With responsive design, it adapts seamlessly to different devices. PHP ensures secure data handling and enables persistent storage of tasks. Key features include task creation, management, filtering, and sorting. The project includes user authentication and customization options for themes and layouts. The Todo List project combines the power of HTML, CSS, JavaScript, and PHP to provide an organized and efficient task management solution for personal or professional use.
